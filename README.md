@@ -25,6 +25,14 @@ Final-year B.Tech (AI & ML) at Woxsen University, Hyderabad · CGPA 8.69/10 · G
 | [**TMDB Success Prediction**](https://github.com/Shivasai132678/tmdb-movie-success-prediction) | ML on 232K films with temporal holdout, SHAP explainability, FastAPI + React dashboard | 20 tests · 91% coverage |
 | [**NLP RAG Pipeline**](https://github.com/Shivasai132678/nlp-rag-pipeline) | FAISS + MiniLM retrieval with FLAN-T5 generation, evaluated vs. a no-retrieval baseline | ROUGE-L + semantic-similarity eval |
 
+### 🌐 Open source
+**[PocketPaw](https://github.com/pocketpaw/pocketpaw)** (self-hosted AI agent, 890+ ⭐) — 6 merged PRs:
+- [#682](https://github.com/pocketpaw/pocketpaw/pull/682) Security: pinned resolved IPs to close a DNS-rebinding (TOCTOU) SSRF bypass in URL extraction
+- [#663](https://github.com/pocketpaw/pocketpaw/pull/663) Scheduler: prevented corrupt reminder files from overwriting data on startup
+- [#658](https://github.com/pocketpaw/pocketpaw/pull/658) Agent loop: replaced silent exception swallowing with structured logging
+- [#656](https://github.com/pocketpaw/pocketpaw/pull/656) Performance: removed blocking calls from async install/update paths
+- [#653](https://github.com/pocketpaw/pocketpaw/pull/653) Refactor: frozenset membership constants · [#655](https://github.com/pocketpaw/pocketpaw/pull/655) Docs: API-key setup guide
+
 ### 🛠️ Tech stack
 **Languages:** Python · Java · TypeScript · JavaScript · SQL  
 **AI/ML:** PyTorch · Hugging Face · QLoRA fine-tuning · llama.cpp · Ollama · LangChain · RAG · FAISS · Whisper · Computer Vision · NLP  
