@@ -21,14 +21,14 @@ Final-year B.Tech (AI & ML) at Woxsen University, Hyderabad · CGPA 8.69/10 · G
 | [**ComplaintIQ**](https://github.com/Shivasai132678/complaintiq-slm) | Local SLM for financial complaint triage — Qwen3-4B QLoRA fine-tuned on 70K CFPB complaints, served via llama.cpp | 90.9% product accuracy · ~204 ms latency on RTX 4070 |
 | [**Deep Retina Grade**](https://github.com/Shivasai132678/deep-retina-grade) | Explainable diabetic-retinopathy grading — EfficientNet-B0, Grad-CAM/IG/LIME, uncertainty & safety flags, fairness audit | QWK 0.87 on APTOS · external validation on IDRiD · 82 tests |
 | [**Telugu Desktop AI Assistant**](https://github.com/Shivasai132678/telugu-desktop-ai-assistant) | Fully offline Telugu/English voice assistant — Whisper STT, Ollama LLM, Piper TTS, system actions | Runs on an 8 GB M1, no cloud APIs |
-| [**Jarvis V4**](https://github.com/Shivasai132678/jarvis-v4-local-agent) | Local-first autonomous agent — approval-gated actions, memory/RAG, Telegram control plane | Hardware-aware model selection on M1 |
+| [**Skin Lesion Robustness Study**](https://github.com/Shivasai132678/skin-lesion-analysis) | ResNet-18 classification vs U-Net segmentation on HAM10000 under low-light and skin-tone shifts | Segmentation Dice drops 16% under shift |
 | [**TMDB Success Prediction**](https://github.com/Shivasai132678/tmdb-movie-success-prediction) | ML on 232K films with temporal holdout, SHAP explainability, FastAPI + React dashboard | 20 tests · 91% coverage |
 | [**NLP RAG Pipeline**](https://github.com/Shivasai132678/nlp-rag-pipeline) | FAISS + MiniLM retrieval with FLAN-T5 generation, evaluated vs. a no-retrieval baseline | ROUGE-L + semantic-similarity eval |
 
 ### 🛠️ Tech stack
-**Languages:** Python · Java · TypeScript · JavaScript · SQL
-**AI/ML:** PyTorch · Hugging Face · QLoRA fine-tuning · llama.cpp · Ollama · LangChain · RAG · FAISS · Whisper · Computer Vision · NLP
-**Full stack:** React · Next.js · NestJS · FastAPI · PostgreSQL · Prisma · Redis · REST · JWT
+**Languages:** Python · Java · TypeScript · JavaScript · SQL  
+**AI/ML:** PyTorch · Hugging Face · QLoRA fine-tuning · llama.cpp · Ollama · LangChain · RAG · FAISS · Whisper · Computer Vision · NLP  
+**Full stack:** React · Next.js · NestJS · FastAPI · PostgreSQL · Prisma · Redis · REST · JWT  
 **Engineering:** Git · Docker · GitHub Actions · pytest · CI/CD
 
 ### 🏅 Recognition
