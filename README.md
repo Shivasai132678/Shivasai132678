@@ -1,8 +1,8 @@
 # Shiva Sai Karthikeya Vemula
 
-I build applied AI systems and the software around them, from fine-tuning and evaluating local language models to shipping voice interfaces and full-stack applications. I'm pursuing a B.Tech in AI & ML at Woxsen University in Hyderabad (2027) and previously interned as a software developer at Estevia TechSolutions and an AI engineer at Fidisys.
+I build applied AI systems and the software around them, from fine-tuning and evaluating local language models to shipping voice interfaces and full-stack applications. I'm pursuing a B.Tech in AI & ML at Woxsen University in Hyderabad (expected 2027, CGPA 8.73/10) and previously interned as a software developer at Estevia TechSolutions and an AI engineer at Fidisys.
 
-**Open to applied AI and software engineering internships now, and full-time roles from mid-2027.**
+**Available now for full-time roles and internships in applied AI, machine learning, and software engineering.**
 
 ## Selected projects
 
@@ -18,6 +18,7 @@ I build applied AI systems and the software around them, from fine-tuning and ev
 Merged contributions to [PocketPaw](https://github.com/pocketpaw/pocketpaw/pulls?q=is%3Apr+author%3AShivasai132678+is%3Amerged) include [protecting scheduler data when reminder files are corrupt](https://github.com/pocketpaw/pocketpaw/pull/663), [adding structured logs to the agent loop](https://github.com/pocketpaw/pocketpaw/pull/658), and [removing blocking calls from async update paths](https://github.com/pocketpaw/pocketpaw/pull/656).
 
 **AI/ML:** Python, PyTorch, Hugging Face, LLM fine-tuning (QLoRA), model evaluation, RAG, Whisper, llama.cpp
+
 **Software engineering:** TypeScript, React, Next.js, NestJS, FastAPI, PostgreSQL, Redis, Docker, GitHub Actions
 
 [LinkedIn](https://www.linkedin.com/in/shiva-sai-karthikeya-vemula-25700b165/) · [Email](mailto:shivasaikarthikeya1@gmail.com)
